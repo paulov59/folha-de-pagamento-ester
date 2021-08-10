@@ -1,2 +1,0 @@
-class Folha():
-    pass
