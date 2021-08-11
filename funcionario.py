@@ -2,14 +2,6 @@ class Funcionario():
     nome = ''
     endereco = ''
 
-    def __init__(self, nome, endereco, tipo_funcionario, salario, sindicato):
-        pass
-        self.nome = nome
-        self.endereco = endereco
-        self.tipo_funcionario = tipo_funcionario #se eh horista, assalariado ou comissario
-        self.salario = salario
-        self.sindicato = sindicato #não sei o que fazer
-
     def __init__(self, nome):
         pass
         self.nome = nome
